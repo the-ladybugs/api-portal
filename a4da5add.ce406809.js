@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{86:function(o){o.exports=JSON.parse('{"permalink":"https://github.com/the-ladybugs/portal-api/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog"}')}}]);
