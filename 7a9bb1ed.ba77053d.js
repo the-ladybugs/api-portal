@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{79:function(a){a.exports=JSON.parse('{"allTagsPath":"https://github.com/the-ladybugs/portal-api/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"https://github.com/the-ladybugs/portal-api/blog/tags/facebook"}')}}]);

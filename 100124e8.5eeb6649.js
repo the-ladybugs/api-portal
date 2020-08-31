@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{59:function(a){a.exports=JSON.parse('{"allTagsPath":"https://the-ladybugs.gitlab.io/portal-api/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"https://the-ladybugs.gitlab.io/portal-api/blog/tags/hello"}')}}]);
